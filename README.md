@@ -8,15 +8,21 @@ Select Age Range: Adjust age range using a slider (18-90 years).
 Select Date Range: Specify a time frame for data analysis.
 Select Medical Condition: Choose a specific condition or analyze all conditions.
 Download Data: Export filtered data for further analysis.
+
 **Tabs & Visualizations:**
 
 Age Distribution: Histogram showing the distribution of patients across different age groups by gender.
 Gender Distribution: Breakdown of patients based on gender.
+
 Top Medical Conditions: Insights into the most common medical conditions.
+
 Billing Amount Analysis: Comparison of billing amounts by gender and medical condition.
+
 Summary Statistics: Key statistics about patient demographics and billing.
+
 **Graphical Representation:**
 The bar chart in the screenshot visualizes the age distribution by gender.
+
 **Color-coded bars:**
 Red (Female)
 Blue (Male)
