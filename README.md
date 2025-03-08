@@ -1,9 +1,7 @@
-🔍 Dashboard Overview
+**🔍 Dashboard Overview:**
 This Shiny-based interactive dashboard provides visual insights into healthcare data, enabling users to explore patient demographics, billing, and medical conditions efficiently.
-
 📌 Key Features
 Filters & User Input:
-
 Select Gender: Filter data by Male, Female, or All.
 Select Age Range: Adjust age range using a slider (18-90 years).
 Select Date Range: Specify a time frame for data analysis.
