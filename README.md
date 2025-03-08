@@ -1,5 +1,6 @@
 **🔍 Dashboard Overview:**
 This Shiny-based interactive dashboard provides visual insights into healthcare data, enabling users to explore patient demographics, billing, and medical conditions efficiently.
+
 📌 Key Features
 Filters & User Input:
 Select Gender: Filter data by Male, Female, or All.
@@ -21,11 +22,13 @@ Color-coded bars:
 Red (Female)
 Blue (Male)
 It helps in understanding which age groups have more patients and how gender distribution varies.
+
 🚀 Technologies Used
 R Shiny: For interactive UI and server-side logic.
 ggplot2: For data visualization.
 dplyr & tidyr: For data manipulation.
 Shiny Widgets: For filters and selection options.
+
 📊 Use Cases
 Analyzing patient demographics to identify trends.
 Monitoring billing and expenditure for different conditions.
